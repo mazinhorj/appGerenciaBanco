@@ -1,2 +1,2 @@
 # appGerenciaBanco
-Aplicação inicial para aula de POO - Portfólio Engenharia de Software - Anhanguera
+Aplicação inicial para aula de POO - Portfólio Engenharia de Software - Anhanguera - 2024.2
